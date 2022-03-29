@@ -7,7 +7,7 @@ In **home_test/src/api/index.ts**
 
 Change the IP to the IP of your computer
 
-### App running
+## App running
 In the home_test project directory, you can run:
 - #### `npm install`
 - #### `npx pod-install ios`
@@ -19,7 +19,7 @@ In the home_test project directory, you can run:
 #### for run android:
 - #### `npm run android`
 
-### Server running
+## Server running
 In the sever project directory, you can run:
 
 - #### `npm install`
