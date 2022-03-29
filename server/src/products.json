@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "id": "0",
+            "name": "iPhone 19",
+            "description": "Apple's mobile phone",
+            "price": 29999
+        },
+        {
+            "id": "1",
+            "name": "iPhone 11",
+            "description": "Apple's mobile phone",
+            "price": 999
+        },
+        {
+            "id": "2",
+            "name": "iPad Air",
+            "description": "Apple's tablet",
+            "price": 999
+        },
+        {
+            "id": "3",
+            "name": "iPad Pro",
+            "description": "Apple's tablet",
+            "price": 999
+        },
+        {
+            "id": "4",
+            "name": "Galaxy 22",
+            "description": "Samsung mobile phone",
+            "price": 999
+        },
+        {
+            "id": "5",
+            "name": "Galaxy 21",
+            "description": "Samsung mobile phone",
+            "price": 999
+        },
+        {
+            "id": "6",
+            "name": "Airpods Pro",
+            "description": "Apple's ear buds",
+            "price": 999
+        },
+        {
+            "id": "7",
+            "name": "iPhone 11",
+            "description": "Apple's blue mobile phone",
+            "price": 999
+        },
+        {
+            "id": "8",
+            "name": "iPhone 11 pro",
+            "description": "Apple's blue mobile phone",
+            "price": 999
+        },
+        {
+            "id": "9",
+            "name": "iPhone 11",
+            "description": "Apple's red mobile phone",
+            "price": 999
+        },
+        {
+            "id": "10",
+            "name": "iPhone 11",
+            "description": "Apple's silver mobile phone",
+            "price": 999
+        },
+        {
+            "id": "11",
+            "name": "iPhone 11",
+            "description": "Apple's gold mobile phone",
+            "price": 999
+        },
+        {
+            "id": "12",
+            "name": "iPhone 11",
+            "description": "Apple's white mobile phone",
+            "price": 999
+        },
+        {
+            "id": "13",
+            "name": "iPhone 11",
+            "description": "Apple's black mobile phone",
+            "price": 999
+        },
+        {
+            "id": "14",
+            "name": "MacBookPro",
+            "description": "Apple's laptop",
+            "price": 999
+        },
+        {
+            "id": "15",
+            "name": "Nexus 6",
+            "description": "Google mobile phone",
+            "price": 999
+        },
+        {
+            "id": "16",
+            "name": "Lenovo Legion",
+            "description": "Lenovo's 15.6 laptop",
+            "price": 1599
+        },
+        {
+            "id": "17",
+            "name": "Macbook Pro",
+            "description": "Apple's laptop",
+            "price": 2999
+        },
+        {
+            "id": "18",
+            "name": "LG OLED",
+            "description": "LG's Smart TV",
+            "price": 1999
+        },
+        {
+            "id": "19",
+            "name": "iPhone 8",
+            "description": "Apple's mobile phone",
+            "price": 999
+        },
+        {
+            "id": "20",
+            "name": "iPhone 13",
+            "description": "Apple's mobile phone",
+            "price": 999
+        },
+        {
+            "id": "21",
+            "name": "iPhone 12",
+            "description": "Apple's mobile phone",
+            "price": 999
+        }
+    ]
+}
