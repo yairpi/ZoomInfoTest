@@ -51,7 +51,7 @@ const Products: React.FC<ProductsProps> = ({ navigation }) => {
                 if (res.length) {
                     dispatch(updateProducts(res));
                     setNumberItemToReander(numberItemToReander + 10);
-                    setData(products);
+                    setData([...data, ...res]);
                 }
                 setIsLoading(() => false);
             }, 1000);
